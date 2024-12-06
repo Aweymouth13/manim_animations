@@ -1,0 +1,8 @@
+chmod +x setup_env.sh
+./setup_env.sh
+
+
+maybe: bash setup_env.sh
+
+
+will update this in time
