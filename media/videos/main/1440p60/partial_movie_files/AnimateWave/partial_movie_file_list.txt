@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/workspaces/manim_animations/media/videos/main/1440p60/partial_movie_files/AnimateWave/824855206_1964917358_1604219642.mp4'
+file 'file:/workspaces/manim_animations/media/videos/main/1440p60/partial_movie_files/AnimateWave/3898109551_3778473888_695270000.mp4'
+file 'file:/workspaces/manim_animations/media/videos/main/1440p60/partial_movie_files/AnimateWave/3898109551_1236445920_3526466799.mp4'
+file 'file:/workspaces/manim_animations/media/videos/main/1440p60/partial_movie_files/AnimateWave/3898109551_4150876196_961784786.mp4'
+file 'file:/workspaces/manim_animations/media/videos/main/1440p60/partial_movie_files/AnimateWave/3898109551_1942625189_1491288308.mp4'
